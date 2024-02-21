@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# macOS filesystem artifacts
+.DS_Store
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# IDE-specific files and directories (uncomment if applicable)
+#.idea/
